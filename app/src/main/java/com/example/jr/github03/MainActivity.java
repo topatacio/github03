@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    //cambio de las 10:16
+    //cambio
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
